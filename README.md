@@ -33,3 +33,11 @@ The assistant can:
 
 
 
+## ⚠️ This workflow does NOT include credentials.
+## You must configure the following credentials manually in n8n:
+
+- ` Telegram Bot API `
+- ` OpenAI API `
+- ` Google Sheets API `
+- ` Google Calendar API `
+- ` Gmail API `
