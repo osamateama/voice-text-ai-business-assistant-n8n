@@ -1,6 +1,6 @@
 ## 🏗 Architecture Overview
 
-!["img"](Annotation%202025-12-15%20140131.jpg)
+!["img"](pho-25-59.jpg)
 
 ---
 
